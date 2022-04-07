@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/background"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+    android:id="@+id/tv_1"
+    android:textColor="#673AB7"
+    android:textSize="24sp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/app_name"/>
+    <TextView
+        android:id="@+id/tv_2"
+        android:textColor="#673AB7"
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"/>
+    <TextView
+        android:id="@+id/tv_3"
+        android:textColor="#673AB7"
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"/>
+    <TextView
+        android:id="@+id/tv_4"
+        android:textColor="#673AB7"
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"/>
+    <TextView
+        android:id="@+id/tv_5"
+        android:textColor="#673AB7"
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"/>
+
+
+</LinearLayout>
